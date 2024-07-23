@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Eugenia 
-- 👀 I’m interested in traveling and watching movies
-- 📫 You reach me using my email: baiden2ama1@gmail.com or contact me on +233 55 697 4623
+
   
 
 <!---
